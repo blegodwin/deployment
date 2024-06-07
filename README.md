@@ -1,6 +1,6 @@
 # Obesity Prediction App
 
-Welcome to the Obesity Prediction App! This application is designed to predict the likelihood of obesity based on various features such as demographic information, lifestyle habits, and medical history and can be accessed (here)[https://deployment-7kb8hpw3fywbpawsy7ljua.streamlit.app/].
+Welcome to the Obesity Prediction App! This application is designed to predict the likelihood of obesity based on various features such as demographic information, lifestyle habits, and medical history and can be accessed [here](https://deployment-7kb8hpw3fywbpawsy7ljua.streamlit.app/).
 
 ## Overview
 
