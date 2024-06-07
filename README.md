@@ -1,6 +1,6 @@
 # Obesity Prediction App
 
-Welcome to the Obesity Prediction App! This application is designed to predict the likelihood of obesity based on various features such as demographic information, lifestyle habits, and medical history and can be accessed [here](https://deployment-7kb8hpw3fywbpawsy7ljua.streamlit.app/).
+Welcome to the Obesity Prediction App! This application is designed to predict the likelihood of obesity based on various features such as demographic information, lifestyle habits, and medical history and can be accessed (here)[https://deployment-7kb8hpw3fywbpawsy7ljua.streamlit.app/].
 
 ## Overview
 
@@ -8,11 +8,16 @@ This project encompasses an end-to-end predictive analysis process, from data co
 
 - Data collection, cleaning, and processing involving over 35,000 entries.
 - Exploratory Data Analysis (EDA) to identify key features and gain insights into the dataset.
+- Data Visualisation to clearly communicate insights.
 - Data preprocessing for predictive analysis, including label encoding for the decision tree algorithm.
 - Training a decision tree classification model with 83% accuracy.
 - Model evaluation using precision (83%), recall (82%), and F1-score (82%).
 - Deployment of the predictive model as an interactive Streamlit application.
 - Real-time risk assessment and actionable health insights provided through the deployed application.
+
+## Tools
+
+- Python(pandas, numpy, matplotlip, seaborn, plotly,), Scikit Learn, Streamlit, VS Code.
 
 ## Key Features
 
@@ -41,4 +46,4 @@ Once the app is running, you can navigate through the following pages:
 Contributions to the Obesity Prediction App are welcome! If you have any suggestions, improvements, or feature requests, please feel free to open an issue or submit a pull request.
 
 
-Thank you for using the Obesity Prediction App! If you have any questions or feedback, please don't hesitate to reach out on [Linkedin](https://www.linkedin.com/in/blessing-goodwin/).
+Thank you for using the Obesity Prediction App! If you have any questions or feedback, please don't hesitate to reach out.
